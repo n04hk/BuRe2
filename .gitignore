@@ -1,0 +1,9 @@
+tmp/*
+BuRe2.pdf
+*.synctex.gz
+/*.aux
+*.log
+/*.out
+/*.dvi
+/*.tps
+/*.tcp
