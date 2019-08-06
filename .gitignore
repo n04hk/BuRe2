@@ -1,7 +1,7 @@
 tmp/*
 BuRe2.pdf
 *.synctex.gz
-/*.aux
+*.aux
 *.log
 /*.out
 /*.dvi
